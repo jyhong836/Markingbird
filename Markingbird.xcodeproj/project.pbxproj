@@ -38,6 +38,7 @@
 		4EAF8DD219A213340020CA43 /* Markdown.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Markdown.swift; sourceTree = "<group>"; };
 		4EAF8DD419A213470020CA43 /* SimpleTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleTests.swift; sourceTree = "<group>"; };
 		4EC0AF3419A90DAC0068A458 /* differences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = differences.swift; sourceTree = "<group>"; };
+		CD1293F21BBBDB44005A1046 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +83,7 @@
 				4EAF8DD219A213340020CA43 /* Markdown.swift */,
 				4EAF8DBE19A212F30020CA43 /* Markingbird.h */,
 				4EAF8DBC19A212F30020CA43 /* Supporting Files */,
+				CD1293F21BBBDB44005A1046 /* MyPlayground.playground */,
 			);
 			path = Markingbird;
 			sourceTree = "<group>";
